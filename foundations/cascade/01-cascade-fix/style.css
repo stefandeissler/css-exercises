@@ -18,11 +18,11 @@ body {
 
 #confirm-button,
 #cancel-button {
-  font-weight: bold;
   font-size: 20px;
 }
 
 #confirm-button {
+  font-weight: bold;
   background: green;
   color: white;
 } 
