@@ -32,7 +32,8 @@ body {
 
 button {
   display: block;
-  text-align: center;
   background: white;
+  padding: 8px 24px;
   border: 1px solid #eee;
+  margin: 0 auto;
 }
