@@ -20,6 +20,12 @@ img {
   gap: 52px;
 }
 
+.pair {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 200px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
