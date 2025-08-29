@@ -13,6 +13,12 @@ img {
   text-align: center;
 }
 
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
