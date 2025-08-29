@@ -24,6 +24,7 @@ img {
   display: flex;
   flex-direction: column;
   flex-basis: 200px;
+  align-items: center;
 }
 
 .text {
