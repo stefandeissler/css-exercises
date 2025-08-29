@@ -40,7 +40,7 @@ body {
   flex-direction: column;
 }
 
-.first_row {
+.row {
   display: flex;
   flex-direction: row;
 }
