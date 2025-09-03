@@ -13,6 +13,7 @@ body {
 .header {
   display: flex;
   flex-direction: row;
+  padding: 20px;
 }
 
 .content {
@@ -42,4 +43,5 @@ input {
 .footer {
   display: flex;
   flex-direction: row;
+  padding: 20px;
 }
