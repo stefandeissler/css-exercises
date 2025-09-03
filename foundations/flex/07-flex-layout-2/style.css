@@ -24,6 +24,10 @@ body {
   flex: auto
 }
 
+.content {
+  display: flex;
+}
+
 .footer {
   height: 72px;
   background: #eee;
