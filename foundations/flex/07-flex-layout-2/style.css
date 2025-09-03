@@ -15,17 +15,20 @@ body {
   padding-left: 16px;
   display: flex;
   align-items: center;
+  flex: none;
 }
 
 .middle-section {
   display: flex;
   flex-direction: row;
+  flex: auto
 }
 
 .footer {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  flex: none;
 }
 
 .sidebar {
