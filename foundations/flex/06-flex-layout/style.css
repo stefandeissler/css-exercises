@@ -10,6 +10,15 @@ body {
   justify-content: space-between;
 }
 
+ul {
+  display: flex;
+  flex-direction: row;
+}
+
+li {
+  list-style-type: none;
+}
+
 .header {
   display: flex;
   flex-direction: row;
@@ -38,7 +47,6 @@ input {
   padding: 8px 24px;
   width: 400px;
 }
-
 
 .footer {
   display: flex;
