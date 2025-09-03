@@ -29,6 +29,8 @@ body {
   background: #eee;
   color: darkmagenta;
   flex: none;
+  justify-content: center;
+  align-items: center;
 }
 
 .sidebar {
