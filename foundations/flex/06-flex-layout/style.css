@@ -58,4 +58,5 @@ input {
   display: flex;
   flex-direction: row;
   padding: 20px;
+  background-color: #eeeeee;
 }
