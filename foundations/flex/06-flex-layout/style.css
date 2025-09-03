@@ -43,9 +43,10 @@ img {
 
 button {
   font-family: Roboto, sans-serif;
-  border: none;
+  border: 1px solid black;
   border-radius: 8px;
   background: #eee;
+  padding: 5px;
 }
 
 input {
