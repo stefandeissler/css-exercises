@@ -13,12 +13,16 @@ body {
 ul {
   display: flex;
   flex-direction: row;
-  margin: 0;
   padding-left: 0;
+  gap: 10px;
 }
 
 li {
   list-style-type: none;
+}
+
+.left-links {
+  margin-right: auto;
 }
 
 .header {
