@@ -62,6 +62,12 @@
   gap: 50px;
 }
 
+.sidebar > * {
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+
 .sidebar .photo {
   background-color: white;
   color: black;
@@ -69,7 +75,6 @@
   font-weight: normal;
   border-radius: 10px;
 }
-
 
 .sidebar .side-content {
   background-color: white;
