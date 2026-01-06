@@ -9,7 +9,7 @@
   grid-template-columns: 1fr 4fr;
   grid-template-areas: 
     "header header"
-    "sidebar menu"
+    "sidebar nav"
     "sidebar article"
     "footer footer";
   gap: 4px;
@@ -58,7 +58,7 @@
 
 .nav {
   background-color: #C50208;
-  grid-area: menu;
+  grid-area: nav;
 }
 
 .nav ul li {
